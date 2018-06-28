@@ -1,4 +1,4 @@
-First install npm install --save express body-parser, but as I have already done it, do only npm install in the root folder
+Do npm install in the root folder to install the required dependencies
 
 For route testing purpose go to chrome browser
 
